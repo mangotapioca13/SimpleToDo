@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Some challenges include connecting Git to Android Studio, but used terminal to upload all the files. 
+Some challenges include connecting Git to Android Studio, but used terminal to upload all the files. There were also some complications with constraints, but received help and was able to properly place the items into the screen.
 
 ## License
 
